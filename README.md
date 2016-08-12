@@ -96,7 +96,6 @@ Blackhat USA 2016 presentations
 [+] https://www.blackhat.com/docs/us-16/materials/us-16-Luo-Next-Generation-Of-Exploit-Kit-Detection-By-Building-Simulated-Obfuscator-wp.pdf [+] <br />
 [+] https://www.blackhat.com/docs/us-16/materials/us-16-Devlin-Nonce-Disrespecting-Adversaries-Practical-Forgery-Attacks-On-GCM-In-TLS.pdf [+] <br />
 [+] https://www.blackhat.com/docs/us-16/materials/us-16-Devlin-Nonce-Disrespecting-Adversaries-Practical-Forgery-Attacks-On-GCM-In-TLS-wp.pdf [+] <br />
-[+] https://www.telegram.me/HackingForBeginners / https://www.telegram.me/HackingForBeginners - https://www.telegram.me/HackingForBeginners .pdf [+] <br />
 [+] https://www.blackhat.com/docs/us-16/materials/us-16-Otsubo-O-checker-Detection-of-Malicious-Documents-through-Deviation-from-File-Format-Specifications.pdf [+] <br />
 [+] https://www.blackhat.com/docs/us-16/materials/us-16-Otsubo-O-checker-Detection-of-Malicious-Documents-through-Deviation-from-File-Format-Specifications-wp.pdf [+] <br />
 [+] https://www.blackhat.com/docs/us-16/materials/us-16-Kouns-OSS-Security-Maturity-Time-To-Put-On-Your-Big-Boy-Pants.pdf [+] <br />
